@@ -1,1 +1,1 @@
-# life-emulator
+# Life emulator (Java)
